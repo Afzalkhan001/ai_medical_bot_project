@@ -1,7 +1,7 @@
 streamlit
 streamlit_audio_recorder
 pyttsx3
-speechrecognition
+SpeechRecognition
 requests
 transformers
 torch
