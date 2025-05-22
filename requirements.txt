@@ -1,0 +1,5 @@
+streamlit
+# If you use voice/text-to-speech in the future, add: 
+# streamlit_audio_recorder
+# pyttsx3
+# speechrecognition

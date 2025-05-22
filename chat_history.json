@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is your age?",
+    "answer": "25"
+  },
+  {
+    "question": "Do you have a fever? (yes/no)",
+    "answer": "yes"
+  },
+  {
+    "question": "Are you experiencing cough or chest pain? (yes/no)",
+    "answer": "no"
+  },
+  {
+    "question": "Do you have any chronic conditions?",
+    "answer": "asthma"
+  },
+  {
+    "question": "Given the patient's age and symptoms, the most relevant follow-up question would be:\n\n\"Have you been in contact with anyone who has been diagnosed with COVID-19 or has similar symptoms in the past two weeks?\"",
+    "answer": "I am not"
+  }
+]
