@@ -1,5 +1,8 @@
 streamlit
-# If you use voice/text-to-speech in the future, add: 
-# streamlit_audio_recorder
-# pyttsx3
-# speechrecognition
+streamlit_audio_recorder
+pyttsx3
+speechrecognition
+requests
+transformers
+torch
+huggingface_hub
