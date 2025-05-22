@@ -1,6 +1,5 @@
 # --- Imports ---
 import os
-import torch
 from transformers import AutoProcessor, AutoModelForImageTextToText
 import speech_recognition as sr
 import pyttsx3
